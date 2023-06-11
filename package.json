@@ -4,5 +4,8 @@
     "elliptic": "^6.5.4",
     "save": "^2.9.0",
     "name": "@13nz/blockchain"
+  },
+  "publishConfig": {
+    "@13nz:registry": "https://npm.pkg.github.com"
   }
 }
